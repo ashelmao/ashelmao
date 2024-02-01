@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Ashe, I'm currently learning React / React Native or c++ but you will usually catch me making something in python.
+ My name is Ashe, I'm currently learning React / React Native or c++ but you will usually catch me making something in python.
 
 
 <!--
