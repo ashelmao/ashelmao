@@ -2,6 +2,9 @@
 
  My name is Ashe, I'm currently learning React / React Native or c++ but you will usually catch me making something in python.
 
+ Main dev @panthium (https://discord.gg/YDytHuFBCA)
+ Discord: ashelol
+
 
 <!--
 **ashelmao/ashelmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
