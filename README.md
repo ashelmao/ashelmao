@@ -1,8 +1,6 @@
-### hai
+### ashe
 
-ashe </n>
-19 
-unemployed B)
+19 & unemployed B)
 
 
 used to make cheats
