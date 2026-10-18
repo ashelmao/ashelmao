@@ -8,6 +8,6 @@ building **woodpushr** (a chess coach with in-browser Stockfish) and **seaglass*
 **recent client work**
 - [claybyona](https://claybyona.com): shop and studio dashboard for a ceramicist in girona
 - [amymcintyre](https://www.amymcintyre.art)[lynnemcintyre](https://www.lynnemcintyre.com) sites for a psychotherapist and a writer
-- seaglass: booking platform comissioned by an american therapy organization
+- seaglass: booking platform comissioned by a therapy organization, now my main project
 
 open to freelance projects · ashe.wooo@gmail.com · [ashecaudill.com](https://ashecaudill.com)
