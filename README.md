@@ -1,10 +1,5 @@
 ### ashe
+19, DC / BCN
 
-19 & unemployed B)
-
-
-used to make cheats
-
-<a href="https://discord.gg/panthium"><img src="https://img.shields.io/badge/panthium.cc-7289DA?style=plastic-square&logo=discord&logoColor=white" alt="panthium.cc" /></a>
-
+Building **woodpushr** (a chess coach with in-browser Stockfish) and **Seaglass** (therapist booking, live in production) with Next.js, TypeScript and Firebase.
 
